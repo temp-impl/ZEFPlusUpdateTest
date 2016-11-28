@@ -1,0 +1,8 @@
+.vs
+bin
+obj
+*.user
+*.dbmdl
+*.jfm
+StyleCop.Cache
+project.lock.json

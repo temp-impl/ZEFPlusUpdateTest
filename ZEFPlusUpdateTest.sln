@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5AC72773-97D5-4BB3-89E1-806A51E8C329}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{82EF33FF-F8FF-483F-A349-BD0062A17EF8}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ZEFPlusUpdateTest", "src\ZEFPlusUpdateTest\ZEFPlusUpdateTest.xproj", "{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2D28F36-B78E-4DB9-8C3C-40A9FC7614EA} = {5AC72773-97D5-4BB3-89E1-806A51E8C329}
+	EndGlobalSection
+EndGlobal
